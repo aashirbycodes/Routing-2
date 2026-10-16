@@ -28,6 +28,20 @@ background-color: var(--color-red-800); /* oklch(44.4% 0.177 26.899) */">This is
       <NavLink to="/collection/1223" end style={{ textDecoration: "none", color: "black", fontSize: "30px", fontWeight: "bold" }}>
         Portfoilo
       </NavLink>
+
+
+
+      <NavLink to="/collection/1223" end style={{ textDecoration: "none", color: "black", fontSize: "30px", fontWeight: "bold" }}>
+        login
+      </NavLink>
+
+
+
+
+      <NavLink to="/collection/1223" end>
+        Trending Concerts
+      </NavLink>
+
       </section>
     </>
   )
